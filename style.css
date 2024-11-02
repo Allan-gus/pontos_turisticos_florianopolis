@@ -1,0 +1,36 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background: #000000;
+    font-size: 20px;
+    color: #fff;
+}
+
+img {
+    border-radius: 50px;
+}
+
+h2 {
+    margin-top: 80px;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 40px;
+}
+
+p {
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-block-end: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.imagens {
+    text-align: center;
+    display: block;
+}
